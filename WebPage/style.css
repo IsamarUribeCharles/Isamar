@@ -1,14 +1,23 @@
 body {
-    color:blue;
-    background-color:rgb(231, 5, 5);
+    color:rgb(253, 185, 244);
+    background-color:rgb(209, 244, 248);
 }
 head {
-    color:lightgreen;
+    color:#f5bef2;
 }
 
 h1 {
     color:rgb(252, 143, 143);
 }
 h2 {
-    color:white;
+    color:rgb(151, 159, 235);
+}
+img {
+    border-radius: 20px;
+    border:5px;
+    width: 300px;
+
+
+    
+
 }
